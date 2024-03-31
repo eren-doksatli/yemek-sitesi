@@ -1,3 +1,3 @@
 # yemek-sitesi
 
-![](yemek-sitesi .gif)
+![](yemek-sitesi.gif)
